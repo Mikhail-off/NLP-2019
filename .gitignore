@@ -1,3 +1,5 @@
 HW*/*data*
 HW*/.*
 HW*/FastText*
+HW*/*.pickle
+
